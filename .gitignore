@@ -1,0 +1,7 @@
+/__pycache__
+/.idea
+/.pytest_cache
+/.venv
+/tests/__pycache__
+/tests/.pytest_cache
+/tests/token.txt
