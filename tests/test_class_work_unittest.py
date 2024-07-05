@@ -58,7 +58,7 @@ class TestMain(unittest.TestCase):
                 self.assertEqual(expected, result)
 
     def test_date(self):
-        date = '2024-07-04'
+        date = '2024-07-05'
         result = datetime.now().strftime("%Y-%m-%d")
 
         self.assertEqual(date, result)
